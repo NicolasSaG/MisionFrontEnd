@@ -17,7 +17,7 @@ Descripción:
 
 # Practicas
   - [Toma de requerimientos](./documento_requerimientos.pdf)
-  - [Crea tu buyer persona](./2.-buyerPersona.md)
+  - [Buyer persona](./buyer_persona.PNG)
   - [Publico objetivo](./3.-publicoObjetivo.md)
   - [Crea tu primer Wireframe UX](./4.-wireframe.md)
   - [Ahora el UI](./5.-ui.md)
